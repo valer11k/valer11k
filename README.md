@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Valeriia Kozak
+# 👋 Hi, I'm Valeriia 
 
 📍 Sacramento, CA | 📧 valeriiakozak08@gmail.com | [LinkedIn](https://www.linkedin.com/in/valeriiakozak/)
 
