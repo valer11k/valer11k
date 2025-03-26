@@ -1,15 +1,34 @@
-<h1 align="center">Hi there 👋, I'm Valeriia</h1> <h3 align="center">QA Automation Engineer | Making bugs wish they were never born 🐞</h3>
-🚀 About Me
-🔹 5+ years in web & mobile QA
-🔹 Specializing in automated testing with Playwright, Cypress, and Postman
-🔹 Reduced prod bugs by 40% and sped up test runs by 20%
-🔹 I turn test cases into bulletproof confidence 💥
+# 👋 Hi, I'm Valeriia Kozak
 
-🛠 Tech I Like
-JavaScript TypeScript GitHub Actions MySQL Swagger Jira Jenkins
+📍 Sacramento, CA | 📧 valeriiakozak08@gmail.com | [LinkedIn](https://www.linkedin.com/in/valeriiakozak/)
 
-📍 Sacramento, CA
-📫 valeriiakozak08@gmail.com
-🔗 LinkedIn
+---
 
+## 🧑‍💻 About Me
+
+QA Engineer with 5 years of experience in manual and automated testing for web and mobile platforms.  
+Skilled in improving test coverage, maintaining test automation, and ensuring quality across the SDLC.  
+Focused on delivering user-friendly solutions through efficient testing and collaboration.  
+⚡ Reduced critical production defects by 40% through comprehensive API and functional testing.
+
+---
+
+## 🧰 Tech Stack
+
+**Automation & Tools**  
+`JavaScript` `TypeScript` `Cypress` `Playwright` `K6` `Postman` `Swagger`
+
+**Test Management**  
+`Jira` `Zephyr Scale` `Confluence` `TestRail`
+
+**CI/CD & Version Control**  
+`Git` `GitHub` `GitHub Actions` `Jenkins`
+
+**Databases & Platforms**  
+`MySQL` `DBeaver` `iOS` `Android` `Windows` `macOS`
+
+**Web & Mobile**  
+`HTML` `CSS` `TestFlight` `Android Studio`
+
+---
 
