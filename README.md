@@ -12,4 +12,4 @@ JavaScript TypeScript GitHub Actions MySQL Swagger Jira Jenkins
 📫 valeriiakozak08@gmail.com
 🔗 LinkedIn
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=valeriiakozak&show_icons=true&theme=default&hide=issues&count_private=true" alt="Valeriia's GitHub stats" /> </p>
+
